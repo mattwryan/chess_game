@@ -131,6 +131,8 @@ enum
  TRUE
 };
 
+// Testing
+
 typedef struct
 {
  int pieces[BRD_SQ_NUM];
