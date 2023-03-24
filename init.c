@@ -2,6 +2,7 @@
 
 #include "defs.h"
 
+// Note: When defining external variables, ensure that they are outside of a function (Example below)
 int Sq120ToSq64[BRD_SQ_NUM];
 int Sq64ToSq120[64];
 
