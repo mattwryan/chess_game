@@ -6,6 +6,8 @@ int main()
  AllInit();
 
  int index = 0;
+ int Sq120ToSq64[BRD_SQ_NUM];
+ int Sq64ToSq120[64];
  for (index = 0; index < BRD_SQ_NUM; ++index)
  {
   if (index % 10 == 0)
